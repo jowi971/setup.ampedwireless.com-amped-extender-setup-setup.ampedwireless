@@ -1,0 +1,2 @@
+# setup.ampedwireless.com-amped-extender-setup-setup.ampedwireless
+There may be several aspects because of which a user is unable to access the setup.ampedwireless.com interface of the router. A user loses his control and management from the router if he fails to access the web interface of the Amped router. For quick help, you can also check the manual guide that comes with the router or can also search for the Online manual guide over the Internet.
